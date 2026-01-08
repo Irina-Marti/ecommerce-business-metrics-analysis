@@ -1,4 +1,4 @@
-# E-commerce Business Metrics Analysis
+# Sales Analysis Dashboard
 
 ## Overview
 This project is an analysis of key business metrics for an e-commerce company.
@@ -17,7 +17,7 @@ The project was completed using Google Sheets with additional SQL queries for da
 ---
 
 ## Project Structure
-- `ecommerce_business_metrics_analysis.pdf` — analytical report with EDA and conclusions
+- `sales_analysis_dashboard.pdf` — analytical report with EDA and conclusions
 - `screenshots/dashboard.png` — dashboard with key metrics
 - `screenshots/sql_*.png` — examples of SQL queries with results
 
